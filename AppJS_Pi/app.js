@@ -20,14 +20,14 @@ const WEI_CHAR_UUID         =  '00002a9e-0000-1000-8000-00805f9b34fb';
 
 // Firebase setUp
 const firebaseConfig = {
-    apiKey: "AIzaSyDI2mksu7LclnCLwhioy76LemSeBXXSp2A",
-    authDomain: "jamspantry.firebaseapp.com",
-    databaseURL: "https://jamspantry-default-rtdb.firebaseio.com",
-    projectId: "jamspantry",
-    storageBucket: "jamspantry.appspot.com",
-    messagingSenderId: "845355669248",
-    appId: "1:845355669248:web:031fe792479753b84005e5",
-    measurementId: "G-8GTLXSC1DT"
+    apiKey: "*************",
+    authDomain: "*************",
+    databaseURL: "*************,
+    projectId: "*************",
+    storageBucket: "*************",
+    messagingSenderId: "*************",
+    appId: "*************",
+    measurementId: "*************"
   };
 
 firebase.initializeApp(firebaseConfig);
